@@ -1,3 +1,14 @@
-print("I am new to Python")
-print("I will learn how to use github")
+#Odd number
+
+count = 1
+
+while count <= 99:
+    print(count)
+    count += 2
+
+
+
+
+
+
 
